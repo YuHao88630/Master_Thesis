@@ -1,0 +1,79 @@
+Column,Unit,adf,kpss,中文,,最小值,最大值,平均值
+Timestamp,(),,,,,,,
+Gearbox_T1_High_Speed_Shaft_Temperature,(簞C),1,,  變速箱T1高速軸溫度,,-273.00,99999.00,912.59
+Gearbox_T3_High_Speed_Shaft_Temperature,(簞C),1,,  變速箱T3高速軸溫度,,-273.00,99999.00,891.24
+Gearbox_T1_Intermediate_Speed_Shaft_Temperature,(簞C),1,,  變速箱T1中間高速軸溫度,,-273.00,99999.00,980.84
+Temperature Gearbox Bearing Hollow Shaft,(簞C),1,,  變速箱空心軸承溫度,,16.00,99999.00,946.43
+Tower Acceleration Normal,(mm/s簡),1,,  塔台正常加速度,,0.00,99999.00,931.59
+Gearbox_Oil-2_Temperature,(簞C),1,,  變速箱2油溫,,-273.00,99999.00,924.20
+Tower Acceleration Lateral,(mm/s簡),1,,  塔台側向加速度,,0.00,99999.00,935.31
+Temperature Bearing_A,(簞C),1,,  軸承-A溫度,,-273.00,99999.00,865.81
+Temperature Trafo-3,(簞C),1,,  變壓器-3溫度,,13.85,99999.00,916.45
+Gearbox_T3_Intermediate_Speed_Shaft_Temperature,(簞C),1,,  變速箱T3中間高速軸溫度,,-273.00,99999.00,907.96
+Gearbox_Oil-1_Temperature,(簞C),1,,  變速箱1油溫,,-273.00,99999.00,936.49
+Gearbox_Oil_Temperature,(簞C),1,,  變速箱油溫,,-260.71,99999.00,852.88
+Torque,(%),1,,  力矩,,-327.68,99999.00,966.49
+Converter Control Unit Reactive Power,(kVAr),1,,  無功功率控制轉換器,,-1303.37,99999.00,884.99
+Temperature Trafo-2,(簞C),1,,  變壓器2溫度,,15.00,99999.00,922.53
+Reactive Power,(kVAr),1,,  無功功率,,-1307.99,99999.00,882.43
+Temperature Shaft Bearing-1,(簞C),1,,  軸承1溫度,,-273.00,99999.00,872.71
+Gearbox_Distributor_Temperature,(簞C),1,,  變速箱分配器溫度,,-273.00,99999.00,905.47
+Moment D Filtered,(kNm),1,,  力矩D過濾,,-3001.27,99999.00,1021.96
+Moment D Direction,(kNm),1,,  力矩D方向,,-3001.36,99999.00,979.70
+N-set 1,(rpm),1,,  機組N轉速,,0.00,99999.00,2234.78
+Operating State,( ),1,,  運作狀態,,6.00,99999.00,837.24
+Power Factor,( ),1,,  功率因數,,-1.00,99999.00,921.94
+Temperature Shaft Bearing-2,(簞C),1,,  軸承2溫度,,-273.00,99999.00,912.11
+Temperature_Nacelle,(簞C),1,,  機艙溫度,,-273.00,99999.00,866.78
+Voltage A-N,(V),1,,  電壓A-N,,0.00,99999.00,1279.56
+Temperature Axis Box-3,(簞C),1,,  軸箱3溫度,,-83.67,99999.00,908.95
+Voltage C-N,(V),1,,  電壓C-N,,0.00,99999.00,1223.29
+Temperature Axis Box-2,(簞C),1,,  軸箱2溫度,,-103.89,99999.00,927.69
+Temperature Axis Box-1,(簞C),1,,  軸箱3溫度,,-42.99,99999.00,932.41
+Voltage B-N,(V),1,,  電壓B-N,,0.00,99999.00,1267.58
+Nacelle Position_Degree,(簞),1,,  機艙位置度數,,0.00,99999.00,1121.69
+Converter Control Unit Voltage,(V),1,,  電壓控制轉換器,,0.00,99999.00,1515.80
+Temperature Battery Box-3,(簞C),1,,  電池箱3溫度,,-110.63,99999.00,894.48
+Temperature Battery Box-2,(簞C),1,,  電池箱2溫度,,-273.00,99999.00,912.85
+Temperature Battery Box-1,(簞C),1,,  電池箱1溫度,,-150.36,99999.00,951.65
+Hydraulic Prepressure,(bar),1,,  液壓壓力,,-25.00,99999.00,976.75
+Angle Rotor Position,(簞),1,,  角轉子位置,,0.02,99999.00,1071.34
+Temperature Tower Base,(簞C),1,,  塔基底溫度,,4.00,99999.00,854.82
+Pitch Offset-2 Asymmetric Load Controller,(簞),1,,  螺距偏移1非對稱負載控制器,,-0.05,99999.00,866.35
+Pitch Offset Tower Feedback,(簞),1,,  俯仰偏移塔反饋,,-0.02,99999.00,874.45
+Line Frequency,(Hz),1,,  電源頻率,,0.00,99999.00,975.13
+Internal Power Limit,(kW),1,,  內部功率限制,,1595.17,99999.00,3618.59
+Circuit Breaker cut-ins,( ),1,,  斷路器切入,,395.00,99999.00,1452.23
+Particle Counter,( ),1,,  粒子計數器,,0.00,99999.00,902.67
+Tower Accelaration Normal Raw,(mm/s簡),1,,  塔台原始正常加速度,,-15832.72,99999.00,838.86
+Torque Offset Tower Feedback,(Nm),1,,  扭矩偏移塔反饋,,-9.27,99999.00,828.78
+External Power Limit,(kW),1,,  外部功率限制,,0.00,99999.00,4108.58
+Blade-2 Actual Value_Angle-B,(簞),1,,  葉片2實際角度B,,-1081.24,99999.00,866.85
+Blade-1 Actual Value_Angle-B,(簞),1,,  葉片1實際角度B,,-1020.98,99999.00,913.80
+Blade-3 Actual Value_Angle-B,(簞),1,,  葉片3實際角度B,,-2116.34,99999.00,844.43
+Temperature Heat Exchanger Converter Control Unit,(簞C),1,,熱交換控制轉換器溫度,,1.00,99999.00,839.48
+Tower Accelaration Lateral Raw,(mm/s簡),1,,  塔台原始側向加速度,,-8.81,99999.00,829.75
+Temperature Ambient,(簞C),1,,環境溫度,,-273.00,99999.00,890.14
+Nacelle Revolution,( ),1,,機艙迴轉,,-1.81,99999.00,804.03
+Pitch Offset-1 Asymmetric Load Controller,(簞),1,,  俯仰偏移非對稱負載控制器1,,-0.92,99999.00,809.43
+Tower Deflection,(ms),1,,塔偏轉,,2952.00,99999.00,3999.82
+Pitch Offset-3 Asymmetric Load Controller,(簞),1,,  俯仰偏移非對稱負載控制器3,,-0.54,99999.00,894.27
+Wind Deviation 1 seconds,(簞),1,,每秒風向偏差,,-180.00,99999.00,891.17
+Wind Deviation 10 seconds,(簞),1,,每10秒風向偏差,,-180.00,99999.00,837.62
+Proxy Sensor_Degree-135,(mm),1,,鄰近感測器135度,,-0.24,99999.00,837.79
+State and Fault,( ),1,,狀態和故障,,1.00,99999.00,919.29
+Proxy Sensor_Degree-225,(mm),1,,鄰近感測器225度,,-0.24,99999.00,852.38
+Blade-3 Actual Value_Angle-A,(簞),1,,葉片3實際角度A,,-408.78,99999.00,831.67
+Scope CH 4,( ),1,,CH4範圍,,-408.78,99999.00,837.29
+Blade-2 Actual Value_Angle-A,(簞),1,,葉片2實際角度A,,-408.78,99999.00,839.50
+Blade-1 Actual Value_Angle-A,(簞),1,,葉片1實際角度A,,-408.78,99999.00,956.68
+Blade-2 Set Value_Degree,(簞),1,,葉片2設置度數,,-0.13,99999.00,882.60
+Pitch Demand Baseline_Degree,(簞),1,,俯仰需求基線度,,0.00,99999.00,934.69
+Blade-1 Set Value_Degree,(簞),1,,葉片1設置度數,,-0.77,99999.00,873.61
+Blade-3 Set Value_Degree,(簞),1,,葉片3設置度數,,-1.18,99999.00,845.04
+Moment Q Direction,(kNm),1,,力矩Q方向,,-1287.39,99999.00,884.32
+Moment Q Filltered,(kNm),1,,力矩Q過濾,,-1286.71,99999.00,824.71
+Proxy Sensor_Degree-45,(mm),1,,鄰近感測器45度,,-0.24,99999.00,817.36
+Turbine State,( ),1,,渦輪機狀態,,1.00,99999.00,885.70
+Proxy Sensor_Degree-315,(mm),1,,鄰近感測器315度,,-0.24,99999.00,869.65
+Power (kw),,0,,,,,,
